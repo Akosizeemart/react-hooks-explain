@@ -1,5 +1,6 @@
 import "./App.css";
 import StateTutorial from "./UseState/StateTutorial";
+import UseReducerTutorial from "./UseReducer/UseReducerTutorial";
 
 function App() {
   return (
