@@ -7,11 +7,12 @@ import UseLayoutEffectTutorial from "./UseLayoutEffect/UseLayoutEffect";
 import UseImperativeHandleTutorial from "./UseImperativeHandle/UseImperativeHandleTutorial";
 import UseContextTutorial from "./UseContext/UseContextTutorial";
 import UseMemoTutorial from "./UseMemo/UseMemoTutorial";
+import UseCallBackTutorial from "./UseCallBack/UseCallBackTutorial";
 
 function App() {
   return (
     <div className="App">
-      <UseMemoTutorial />
+      <UseCallBackTutorial />
     </div>
   );
 }
